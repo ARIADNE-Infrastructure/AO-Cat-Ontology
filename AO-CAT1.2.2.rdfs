@@ -11,7 +11,7 @@
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xml:lang="en">
     
-    <owl:Ontology rdf:about="https://www.ariadne-infrastructure.eu/resource/ao/cat/1.2.1/">
+    <owl:Ontology rdf:about="https://www.ariadne-infrastructure.eu/resource/ao/cat/1.2.2/">
 	 <owl:sameAs rdf:resource="https://www.ariadne-infrastructure.eu/resource/ao/cat/1.1/"/>
 	</owl:Ontology>
 
